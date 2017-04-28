@@ -3,3 +3,8 @@
 /pom.xml
 
 .idea
+.DS_Store
+.classpath
+.project
+.settings
+
